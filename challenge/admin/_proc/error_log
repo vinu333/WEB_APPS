@@ -1,0 +1,4 @@
+[07-Nov-2018 09:34:45 UTC] PHP Warning:  unlink(../_uploads/gallery/): Is a directory in /home/globosoftindia/public_html/globosoft/hosting/mcym/admin/_proc/gallery.php on line 12
+[07-Nov-2018 09:50:39 UTC] PHP Warning:  include_once(../_actions/constants.php): failed to open stream: No such file or directory in /home/globosoftindia/public_html/globosoft/hosting/mcym/admin/_common/sessions.php on line 4
+[07-Nov-2018 09:50:39 UTC] PHP Warning:  include_once(): Failed opening '../_actions/constants.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/globosoftindia/public_html/globosoft/hosting/mcym/admin/_common/sessions.php on line 4
+[07-Nov-2018 09:50:39 UTC] PHP Notice:  Use of undefined constant cookie_name - assumed 'cookie_name' in /home/globosoftindia/public_html/globosoft/hosting/mcym/admin/_common/sessions.php on line 5
