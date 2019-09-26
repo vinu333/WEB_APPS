@@ -1,0 +1,27 @@
+body{
+
+  background-color: #ff4c68;
+
+}
+h1{
+  text-align: center;
+font-size: 4rem;
+font-family: 'Montserrat', sans-serif;
+font-weight: bold;
+  color:#fff;
+}
+.class1{
+  text-align: center;
+  margin-top: 100px;
+  margin-left: 10px;
+
+}
+
+.class2{
+  border-radius: 100%;
+}
+
+.class3{
+  text-align: center;
+  margin-top: 30px;
+}
